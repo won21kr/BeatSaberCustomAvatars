@@ -288,3 +288,6 @@ __pycache__/
 *.xsd.cs
 
 CustomAvatar/Dynamic Bones/
+
+# DocFX publish script
+/docs_publish
