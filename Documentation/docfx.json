@@ -53,7 +53,7 @@
       }
     ],
     "dest": "_site",
-    "xref": [ "unity_2019.3_xrefmap.yml" ],
+    "xref": [ "https://nicoco007.github.io/UnityXRefMap/2019.3/xrefmap.yml" ],
     "xrefService": [ "https://xref.docs.microsoft.com/query?uid={uid}" ],
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
